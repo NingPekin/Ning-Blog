@@ -3,7 +3,7 @@
 rm -rf public/
 hugo
 docker build -t hugo-ning .
-process=$(docker ps -q)
+process=$(docker ps -f name=hugo-ning -q)
 if [[ $process ]]
 then
     echo "$process"

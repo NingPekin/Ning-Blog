@@ -1,10 +1,10 @@
 ---
-title:       "LeedCode Exercise"
-subtitle:    "LinkedList"
+title:       "AWS EFS "
+subtitle:    "Boost your developement"
 description: ""
 date:        2021-02-17
 author:      "Ning"
 image:       ""
-tags:        ["leetcode", "linkedlist"]
+tags:        ["aws", "efs", "tech"]
 categories:  ["Tech"]
 ---

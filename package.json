@@ -1,0 +1,23 @@
+{
+  "name": "hugo",
+  "version": "1.0.0",
+  "description": "hugo site for ning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NingPekin/Ning-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NingPekin/Ning-Blog/issues"
+  },
+  "homepage": "https://github.com/NingPekin/Ning-Blog#readme",
+  "dependencies": {
+    "atomic-algolia": "^0.3.19"
+  }
+}

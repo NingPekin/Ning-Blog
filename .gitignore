@@ -1,0 +1,4 @@
+.env
+config.toml
+public
+node_modules
