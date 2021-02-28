@@ -15,4 +15,4 @@ To achieve this goal, we create EFS mounted to the container. Every time, when d
 We create a AWS cloudtrail to log the write operations on that s3 bucket. Then a cloudwatch event will spin up a ecs container when the desired operation is detected. This ecs container is a job to run s3 sync command. Since this container is mounted with the same EFS, the s3 content is synced to the container as well.
 
 
-![aws-efs-s3-sync](../images/aws-efs-s3-sync.png )
+![aws-efs-s3-sync](/img/aws-efs-s3-sync.png )
