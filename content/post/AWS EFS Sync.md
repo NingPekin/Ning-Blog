@@ -4,7 +4,7 @@ subtitle:    "AWS Practice"
 description: "Boost development faster"
 date:        2021-02-17
 author:      "Ning"
-image:       "../images/aws.png"
+image:       ""
 tags:        ["aws", "efs", "tech"]
 categories:  ["Tech"]
 ---
