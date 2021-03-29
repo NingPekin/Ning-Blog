@@ -7,7 +7,7 @@ hugo server --watch --verbose --bind=IP --baseURL=http://IP
 # Create a new post
 
 ```bash
-hugo new posts/test.md
+hugo new post/test.md
 ```
 
 # Deploy in docker
